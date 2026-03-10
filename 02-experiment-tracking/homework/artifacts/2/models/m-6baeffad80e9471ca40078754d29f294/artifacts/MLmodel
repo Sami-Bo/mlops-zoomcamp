@@ -1,0 +1,28 @@
+artifact_path: file:///C:/Users/boucc/taff/datascience/Mlops_datatalks/02-experiment-tracking/homework/artifacts/2/models/m-6baeffad80e9471ca40078754d29f294/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.25
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-6baeffad80e9471ca40078754d29f294
+model_size_bytes: 5849755
+model_uuid: m-6baeffad80e9471ca40078754d29f294
+prompts: null
+run_id: a7bc907fb1b04daeba57c2fc43ef57e4
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 5702]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-03-06 22:16:53.441331'

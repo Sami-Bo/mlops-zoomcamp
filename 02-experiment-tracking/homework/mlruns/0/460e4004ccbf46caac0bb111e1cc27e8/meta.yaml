@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/boucc/taff/datascience/Mlops_datatalks/02-experiment-tracking/homework/mlruns/0/460e4004ccbf46caac0bb111e1cc27e8/artifacts
+end_time: 1772803495439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 460e4004ccbf46caac0bb111e1cc27e8
+run_name: trusting-roo-759
+run_uuid: 460e4004ccbf46caac0bb111e1cc27e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772803468660
+status: 3
+tags: []
+user_id: boucc
